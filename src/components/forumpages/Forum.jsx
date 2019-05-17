@@ -8,7 +8,7 @@ import Image from '../../Assets/Forum2.jpg'
 class Forum extends Component {
 	render() {
 		return (
-			<div className="forumPage">
+			<div className="forumContainer">
 
 				<div id="bannerDiv">
 					<div id="intro">
